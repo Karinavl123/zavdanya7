@@ -1,0 +1,11 @@
+{
+    "name": "mycompany/myproject",
+    "description": "My first project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mycompany\\Myproject\\": "MyProject/"
+        }
+    },
+    "require": {}
+}
